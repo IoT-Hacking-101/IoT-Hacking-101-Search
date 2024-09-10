@@ -2,7 +2,7 @@
 title: "2G Security"
 date: 2023-09-27
 tags: ["GSM", "2G"]
-description: Coming soon.... 
+description: Discover the security risks and vulnerabilities of 2G networks. Learn about best practices for protecting your data and devices on outdated 2G infrastructure.
 ---
 
 <p align="center">
