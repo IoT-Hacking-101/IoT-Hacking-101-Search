@@ -58,17 +58,17 @@ services:
   twitter:
     disableInlineCSS: true
 
-menus:
-  main:
-  - name: Home
-    pageRef: /
-    weight: 10
-  - name: Technologies
-    pageRef: /technologies
-    weight: 20
-  - name: Devices
-    pageRef: /devices
-    weight: 30
-  - name: About
-    pageRef: /about
-    weight: 30
+#menus:
+#  main:
+#  - name: Home
+#    pageRef: /
+#    weight: 10
+#  - name: Technologies
+#    pageRef: /technologies
+#    weight: 20
+#  - name: Devices
+#    pageRef: /devices
+#    weight: 30
+#  - name: About
+#    pageRef: /about
+#    weight: 30
