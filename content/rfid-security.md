@@ -1,7 +1,7 @@
 ---
-title: "ZigBee Security"
+title: "RFID Security"
 date: 2024-09-02
-tags: ["ZigBee"]
+tags: ["RFID"]
 description: ZigBee hacking...
 ---
 

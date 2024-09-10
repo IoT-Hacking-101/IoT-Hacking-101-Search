@@ -1,7 +1,7 @@
 ---
-title: "ZigBee Security"
+title: "NFC Security"
 date: 2024-09-02
-tags: ["ZigBee"]
+tags: ["NFC"]
 description: ZigBee hacking...
 ---
 
