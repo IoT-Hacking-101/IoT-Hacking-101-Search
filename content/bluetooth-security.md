@@ -1,7 +1,7 @@
 ---
 title: "Bluetooth Security"
 date: 2023-09-28
-tags: ["arduino", "32u4"]
+tags: ["Bluetooth", "BLE"]
 description: Coming soon.
 ---
 
