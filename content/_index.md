@@ -1,5 +1,5 @@
 ---
-title: LOTHardware
+title: IoT Hacking 101
 description: Living off the Hardware Project 🧰
 ---
 
