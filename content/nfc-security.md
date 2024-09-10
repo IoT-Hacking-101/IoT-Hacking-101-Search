@@ -9,28 +9,18 @@ description: ZigBee hacking...
   <img src="/images/cactus.jpg" alt="image" width="50%" height="50%">
 </p>
 
-### Device Instance Path
+## Attack Vectors
 
-```text
-HID\VID_1B4F&PID_9207
-```
+## Devices
 
-### VendorID
+## Articles
 
-```text
-1B4F
-```
 
-### ProductID
 
-```text
-9207
-```
-### Class
+## Build a Home Lab
 
-```text
-HID
-```
+- Ask RFS
+
 
 ### Author
 

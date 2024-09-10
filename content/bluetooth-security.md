@@ -9,30 +9,18 @@ description: Coming soon.
   <img src="/images/arduino-pro-micro.jpg" alt="image" width="50%" height="50%">
 </p>
 
+## Attack Vectors
 
-### Device Instance Path
+## Devices
 
-```text
-USB\VID_2341&PID_8037
+## Articles
 
-```
 
-### VendorID
 
-```text
-2341
-```
+## Build a Home Lab
 
-### ProductID
+- Ask RFS
 
-```text
-8037
-```
-### Class
-
-```text
-USB/HID
-```
 ### Author
 
 ```text

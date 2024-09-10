@@ -8,29 +8,18 @@ description: Discover the vulnerabilities and best practices for securing your 4
 <p align="center">
   <img src="/images/sandisk-ultra.jpg" alt="image" width="50%" height="50%">
 </p>
+## Attack Vectors
 
-### Device Instance Path
+## Devices
 
-```text
-USB\VID_0781&PID_5581
+## Articles
 
-```
 
-### VendorID
 
-```text
-0781
-```
+## Build a Home Lab
 
-### ProductID
+- Ask RFS
 
-```text
-5581
-```
-### Class
-
-```text
-USB
 ```
 ### Author
 

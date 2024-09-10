@@ -9,47 +9,28 @@ description: Discover the security risks and vulnerabilities of 2G networks. Lea
   <img src="/images/teensy.jpg" alt="image" width="50%" height="50%">
 </p>
 
-### Device Instance Path
+## Attack Vectors
+
+## Devices
+
+## Articles
+
+
+
+## Build a Home Lab
+
+- Ask RFS
 
 USB Universal Halfkay:
 ```text
 HID\VID_16C0&PID_0478
 ```
 
-USB_SERIAL Mode:
-```text
-?\VID_16C0&PID_0483
-```
-
-USB_DUAL_SERIAL Mode:
-```text
-?\VID_16C0&PID_048B
-```
-
-USB_TRIPLE_SERIAL Mode:
-```text
-?\VID_16C0&PID_048C
-```
-
-USB_KEYBOARDONLY Mode:
-```text
-?\VID_16C0&PID_04D0
-```
-
-USB_HID Mode:
-```text
-?\VID_16C0&PID_0482
-```
-
-USB_SERIAL_HID Mode:
-```text
-?\VID_16C0&PID_0487
-```
 
 ### Author
 
 ```text
-@enesilhaydin
+RFS
 ```
 
 ### Sigma/Yara Rules
