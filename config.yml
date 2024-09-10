@@ -16,7 +16,7 @@ markup:
       unsafe: true
 
 params:
-  showDescriptioninHome: true
+  #showDescriptioninHome: true
   # hideAllTagsinHome: true
   searchBoxPlaceholder: "Type here to search..."
   titleIcon: logo.svg
