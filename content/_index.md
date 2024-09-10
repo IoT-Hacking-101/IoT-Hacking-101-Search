@@ -20,6 +20,4 @@ Key topics to be covered:
 - Ethical hacking principles: Guidelines for responsible and legal hacking practices.
 - IoT security best practices: Recommendations for securing IoT devices and networks.
 
-By participating in this project, you will not only gain valuable technical skills but also contribute to a safer and more secure digital world. 
 
-Join us on this journey to uncover the hidden vulnerabilities of IoT devices and learn how to protect them from harm.
