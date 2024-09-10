@@ -1,7 +1,7 @@
 ---
 title: "Lilypad Attiny85"
 date: 2023-09-28
-tags: ["lilypad", "attiny85","atmel"]
+tags: ["4G", "LTE","atmel"]
 description: Coming soon.
 ---
 

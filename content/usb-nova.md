@@ -1,7 +1,7 @@
 ---
 title: "USB Nova"
 date: 2023-09-27
-tags: ["nova", "spacehuhn"]
+tags: ["BLE", "Bluetooth"]
 description: Coming soon.
 ---
 

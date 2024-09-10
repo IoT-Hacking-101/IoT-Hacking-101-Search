@@ -1,10 +1,10 @@
-baseURL: https://hard.popdocs.net/
+baseURL: https://www.iothacking101.com/
 languageCode: en-us
-title: LOTHardware
+title: IoT Hacking 101
 theme: hugo-index
 pygmentsUseClasses: true
 #enableInlineShortcodes: true
-Copyright: 2024 | enesilhaydin
+Copyright: 2024 | RFS
 
 markup:
   highlight:
@@ -18,7 +18,7 @@ markup:
 params:
   # showDescriptioninHome: true
   # hideAllTagsinHome: true
-  # searchBoxPlaceholder: "Type here to search..."
+  searchBoxPlaceholder: "Type here to search..."
   titleIcon: logo.svg
   headers:
     key: Device
