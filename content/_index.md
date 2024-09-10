@@ -3,9 +3,26 @@ title: IoT Hacking 101
 description: Hacking IoT Devices 🧰
 ---
 
-Living Off The Hardware is a resource collection that provides guidance on identifying and utilizing malicious hardware and malicious devices. Definitions for these devices are shared below. You can create blocking definitions in your AV/EDR security solutions. Each device will have sample usage and a definition list.
+In our increasingly interconnected world, the Internet of Things (IoT) has become an integral part of our daily lives. From smart homes to industrial automation, IoT devices are everywhere. However, with this connectivity comes a growing risk of security vulnerabilities.   
 
-Please note that the values in the list are default values and it should be remembered that the attacker can alter the ID values if desired. It is important to acknowledge that completely preventing malicious USBs is not always feasible, as ID spoofing can be employed. If you believe there are errors or if you would like to suggest the addition of specific devices, please contact us at enesilhaydin@gmail.com.
+This project, IoT Hacking 101, aims to provide a comprehensive understanding of IoT security and the potential threats that exist. By delving into the world of IoT hacking, participants will gain the knowledge and skills to:   
+
+Identify vulnerabilities: Learn to spot weaknesses in IoT devices and systems.   
+Exploit vulnerabilities: Understand common hacking techniques and how to execute them.
+Mitigate risks: Discover strategies to protect IoT devices and networks from attacks.
+Key topics to be covered:
+
+- IoT fundamentals: A basic overview of IoT technology and architecture.
+- IoT security threats: Common vulnerabilities and potential consequences.
+- IoT hacking techniques: Hands-on demonstrations of hacking methods.
+- Ethical hacking principles: Guidelines for responsible and legal hacking practices.
+- IoT security best practices: Recommendations for securing IoT devices and networks.
+
+By participating in this project, you will not only gain valuable technical skills but also contribute to a safer and more secure digital world. 
+Join us on this journey to uncover the hidden vulnerabilities of IoT devices and learn how to protect them from harm.
+
+
+
 
 This project was created by Enes Ilhan Aydin.
 
