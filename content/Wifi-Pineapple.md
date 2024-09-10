@@ -1,7 +1,7 @@
 ---
-title: "USB Nova"
+title: "Wifi Pineapple"
 date: 2023-09-27
-tags: ["BLE", "Bluetooth"]
+tags: ["Wifi", "WPS"]
 description: Coming soon.
 ---
 
