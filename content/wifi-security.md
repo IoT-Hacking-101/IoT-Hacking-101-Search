@@ -1,5 +1,5 @@
 ---
-title: "Wifi Pineapple"
+title: "Wifi Security"
 date: 2023-09-27
 tags: ["Wifi", "WPS"]
 description: Coming soon.

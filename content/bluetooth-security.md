@@ -1,5 +1,5 @@
 ---
-title: "Arduino Pro Micro"
+title: "Bluetooth Security"
 date: 2023-09-28
 tags: ["arduino", "32u4"]
 description: Coming soon.

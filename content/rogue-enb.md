@@ -1,5 +1,5 @@
 ---
-title: "Rogue eNB"
+title: "4G Security"
 date: 2024-09-10
 tags: ["LTE", "4G",]
 description: The SanDisk Ultra 16GB USB drive featuring the PS2251-03 chip is a notable inclusion due to its potential for bad USB exploitation. This particular chip, known for its versatility, can be repurposed to execute malicious activities. By leveraging its capabilities, it's possible to manipulate the device to behave in ways contrary to its intended use. This opens doors to various cybersecurity scenarios, making it a valuable addition for examining security vulnerabilities and reinforcing defenses. 
