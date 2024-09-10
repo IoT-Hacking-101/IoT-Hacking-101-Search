@@ -1,5 +1,5 @@
 ---
-title: "Lime SDR"
+title: "Rogue BTS"
 date: 2023-09-27
 tags: ["GSM", "2G"]
 description: Coming soon.... 
