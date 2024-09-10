@@ -1,7 +1,7 @@
 ---
 title: "NFR Security"
 date: 2023-09-28
-tags: ["digispark", "atmel","attiny85"]
+tags: ["NRF"]
 description: Coming soon.
 ---
 
