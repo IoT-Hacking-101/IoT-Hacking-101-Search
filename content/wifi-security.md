@@ -6,43 +6,32 @@ description: Coming soon.
 ---
 
 <p align="center">
-  <img src="/images/usb-nova.jpg" alt="image" width="50%" height="50%">
+  <img src="/images/teensy.jpg" alt="image" width="50%" height="50%">
 </p>
 
+## Attack Vectors
 
-### Device Instance Path
+## Devices
 
-```text
-?\VID_16D0&PID_11A4
+## Articles
 
-```
+## CVEs
 
-### VendorID
+## Build a Home Lab
 
-```text
-16D0
-```
+- Ask RFS
 
-### ProductID
 
-```text
-11A4
-```
-### Class
 
-```text
-?
-```
+
 ### Author
 
 ```text
-@enesilhaydin
+RFS
 ```
 
-### Sigma/Yara Rules
 
-Coming Soon...
 
-### Links
+### References
 
-1- https://usbnova.com/
+
