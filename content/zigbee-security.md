@@ -6,42 +6,32 @@ description: ZigBee hacking...
 ---
 
 <p align="center">
-  <img src="/images/cactus.jpg" alt="image" width="50%" height="50%">
+  <img src="/images/teensy.jpg" alt="image" width="50%" height="50%">
 </p>
 
-### Device Instance Path
+## Attack Vectors
 
-```text
-HID\VID_1B4F&PID_9207
-```
+## Devices
 
-### VendorID
+## Articles
 
-```text
-1B4F
-```
+## CVEs
 
-### ProductID
+## Build a Home Lab
 
-```text
-9207
-```
-### Class
+- Ask RFS
 
-```text
-HID
-```
+
+
 
 ### Author
 
 ```text
-@enesilhaydin
+RFS
 ```
 
-### Sigma/Yara Rules
 
-Coming Soon...
 
-### Links
+### References
 
-https://github.com/whid-injector/WHID
+
