@@ -94,7 +94,7 @@ menus:
 
 
 [[social_media.items]]
-enabled = false
-title = 'Facebook'
-icon = 'brand-facebook'
-link = 'https://www.facebook.com/'
+enabled: true
+title: 'Facebook'
+icon: 'brand-facebook'
+link: 'https://www.facebook.com/'
