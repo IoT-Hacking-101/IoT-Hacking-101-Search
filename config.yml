@@ -4,6 +4,7 @@ title: IoT Hacking 101
 theme: hugo-index
 pygmentsUseClasses: true
 #enableInlineShortcodes: true
+enableEmoji: true
 Copyright: 2024 | RFS
 sectionPagesMenu: main
 
@@ -33,6 +34,8 @@ taxonomies:
   category: "categories"
   tech: "technology"
   tag: "tags"
+  rfid: "rfid"
+  ble: "bluetooth"
 
 outputs:
   home:
