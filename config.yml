@@ -93,8 +93,3 @@ menus:
     weight: 20
 
 
-[[social_media.items]]
-enabled: true
-title: 'Facebook'
-icon: 'brand-facebook'
-link: 'https://www.facebook.com/'
