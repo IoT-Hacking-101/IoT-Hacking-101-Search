@@ -1,6 +1,7 @@
 ---
-title: Devices
-description: IoT Devices
+build:
+  list: never
+  publishResources: false
+  render: never
+title: Headless page devices
 ---
-
-IoT Devices List
