@@ -29,6 +29,8 @@ permalinks:
   tags: "@:slug"
 
 taxonomies:
+  category: "categories"
+  series: "series"
   tag: "tags"
 
 outputs:
