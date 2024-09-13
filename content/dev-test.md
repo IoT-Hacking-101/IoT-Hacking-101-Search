@@ -5,6 +5,9 @@ params:
   author: John Smith
 title: Example
 weight: 10
+tech: ["Bluetooth", "BLE"]
+category: ["cat1", "cat2"]
+description: Coming soon.
 ---
 
 <p align="center">

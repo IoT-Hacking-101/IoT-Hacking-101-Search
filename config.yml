@@ -31,7 +31,7 @@ permalinks:
 
 taxonomies:
   category: "categories"
-  series: "series"
+  tech: "technology"
   tag: "tags"
 
 outputs:
