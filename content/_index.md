@@ -21,3 +21,10 @@ Key topics to be covered:
 - IoT security best practices: Recommendations for securing IoT devices and networks.
 
 
+- Wifi Security
+- Bluetooth Security
+- Lora Security
+- RFID Security
+- NFC Security
+- ZigBee Security
+- NRF Security
