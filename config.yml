@@ -75,3 +75,13 @@ menus:
   - name: About
     pageRef: /about
     weight: 30
+
+
+menus:
+  footer:
+  - name: Terms
+    pageRef: /terms
+    weight: 10
+  - name: Privacy
+    pageRef: /privacy
+    weight: 20
