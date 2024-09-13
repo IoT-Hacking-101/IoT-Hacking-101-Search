@@ -1,4 +1,4 @@
 ---
 menus: main
-title: Devices
+title: Contacts
 ---
