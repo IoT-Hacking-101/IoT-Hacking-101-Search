@@ -5,6 +5,7 @@ theme: hugo-index
 pygmentsUseClasses: true
 #enableInlineShortcodes: true
 Copyright: 2024 | RFS
+sectionPagesMenu: main
 
 markup:
   highlight:
