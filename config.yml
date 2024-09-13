@@ -61,31 +61,21 @@ services:
   twitter:
     disableInlineCSS: true
 
-languages:
-  pt:
-    languageCode: pt-PT
-    languageName: Portuguese
-    menus:
-      main:
-      - name: Produtos
-        pageRef: /produtos
-        weight: 10
-      - name: Serviços
-        pageRef: /servicos
-        weight: 20
-    weight: 1
-  en:
-    languageCode: en-US
-    languageName: English
-    menus:
-      main:
-      - name: Products
-        pageRef: /products
-        weight: 10
-      - name: Services
-        pageRef: /services
-        weight: 20
-    weight: 2
+menus:
+  main:
+  - name: Home
+    pageRef: /
+    weight: 10
+  - name: Technologies
+    pageRef: /technologies
+    weight: 20
+  - name: Devices
+    pageRef: /devices
+    weight: 30
+  - name: About
+    pageRef: /about
+    weight: 30
+
 
 menus:
   footer:
