@@ -1,6 +1,6 @@
 {{- if not site.Params.hideAllCategoriesinHome }}
-<div class="all-tags">
-  <ul class="tagsList">
+<div class="all-cats">
+  <ul class="catsList">
     {{- range .Site.Taxonomies.categories }}
     <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
     {{- end }}
