@@ -1,12 +1,13 @@
 baseURL: https://www.iothacking101.com/
 languageCode: en-us
 title: IoT Hacking 101
-theme: hugo-index
+theme: tailwind
 pygmentsUseClasses: true
 #enableInlineShortcodes: true
 enableEmoji: true
 Copyright: 2024 | RFS
 sectionPagesMenu: main
+author: "RFS"
 
 markup:
   highlight:
@@ -16,6 +17,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+  _merge: "deep"
 
 params:
   #showDescriptioninHome: true
@@ -36,6 +38,7 @@ taxonomies:
   tag: "tags"
   rfid: "rfid"
   ble: "bluetooth"
+  series: "series"
 
 outputs:
   home:
@@ -88,3 +91,10 @@ menus:
   - name: Privacy
     pageRef: /privacy
     weight: 20
+
+
+[[social_media.items]]
+enabled = false
+title = 'Facebook'
+icon = 'brand-facebook'
+link = 'https://www.facebook.com/'
