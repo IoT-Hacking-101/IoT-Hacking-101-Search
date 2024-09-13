@@ -1,0 +1,9 @@
+{{- if not site.Params.hideAllCategoriesinHome }}
+<div class="all-tags">
+  <ul class="tagsList">
+    {{- range .Site.Taxonomies.categories }}
+    <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+    {{- end }}
+  </ul>
+</div>
+{{- end }}
