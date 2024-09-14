@@ -1,5 +1,5 @@
 +++
-title = "Configuration"
+title = "RFID"
 description = ""
 weight = 2
 +++
