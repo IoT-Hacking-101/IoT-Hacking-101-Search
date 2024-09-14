@@ -30,16 +30,16 @@ menushortcutsnewtab = true # set true to open shortcuts links to a new tab/windo
 home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
-name = "More from us"
-url = "https://vantage-design.com"
+name = "More from RFS"
+url = "#"
 weight = 1
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-github'></i>"
-url = "https://github.com/vantagedesign/ace-documentation"
+url = "#"
 weight = 2
 
 [[menu.shortcuts]]
 name = "<button class='btn btn-success mt-n1'>Download</button>"
-url = "https://github.com/vantagedesign/ace-documentation/releases"
+url = "#"
 weight = 3
